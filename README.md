@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+https://img.shields.io/badge/dtson2803%40gmail.com-black?logo=Gmail&logoColor=white
 <!--
 **dos2803/dos2803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
